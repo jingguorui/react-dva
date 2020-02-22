@@ -28,7 +28,7 @@ class IndexPage extends React.Component{
         <div>{this.props.msg}</div>
         <div>{this.props.name}</div>
         <button onClick={this.clickhand}>点击事件</button>
-        <button onClick={this.asyncclickhand}>异步点击事件</button>
+        <button onClick={this.asyncclickhand}>异步点击事件aaaaaaaaaa</button>
       </div>
     );
   }
